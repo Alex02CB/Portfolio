@@ -1,0 +1,270 @@
+body{
+  background:black !important;
+}
+
+h1,h2,h3,h4,h5,h6,a,p{
+  color: white !important;
+}
+
+p{
+  font-size: 18px;
+}
+
+h1{
+  font-size: 46px;
+}
+
+a {
+  font-weight: 500;
+  color: #777777;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #828282;
+}
+
+
+/* ----------------NAVBAR--------------- */
+
+.navbar-toggler-icon {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.enlaceNav{
+  color: white;
+  margin-left: 30px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+.enlaceNav1{
+  margin-left: 0px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+@media only screen
+and (min-width: 200px)
+and (max-width: 820px)
+{
+  .enlaceNav{
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 0px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+
+  #basic-navbar-nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+  }
+  
+}
+
+.navbar{
+  background: rgb(0, 0, 0);
+  min-height: 10vh;
+}
+
+
+@media only screen
+and (min-width: 960px)
+{
+div#basic-navbar-nav {
+  display: flex;
+  justify-content: flex-end !important;
+}
+}
+
+
+/* --------------FIN NAVBAR---------- */
+
+/* ---------------ABOUT-------------- */
+
+/* PHONE */
+@media screen and (max-width:576px) {
+
+  .boxRowAbout{
+    padding: 0.7rem;
+  }
+  .backAbout{
+    padding: 0rem !important;
+  }
+
+  .alexImg{
+    margin-top: 50px;
+  }
+
+
+}
+
+.styleLinksAbout{
+  margin-left: 10px;
+  text-decoration: none;
+}
+.imgAbout{
+  margin-right: 10px;
+}
+
+ul{
+  padding-left: 0px !important;
+}
+li{
+  text-decoration: none;
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.titulo{
+  font-family:'Poppins', sans-serif ;
+  font-size: 46px !important;
+  font-weight: 800;
+}
+
+.titulo2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 26px;
+}
+
+
+.backAbout{
+
+  border-color: rgb(255, 255, 255);
+  border-width: 2px;
+  border-style: solid;
+}
+
+
+.cajaTexto p{
+  font-weight: lighter;
+}
+
+.cajaTexto h3{
+  font-size: 26px;
+}
+
+.cajaTexto{
+  margin: 25px 10px 25px 10px;
+}
+
+/* PHONE */
+@media screen and (max-width:576px) {
+  .cajaTexto{
+    padding: 20px;
+  }
+
+  .imgCode1{
+    margin-top: 25px;
+  }
+  .imgPersonal{
+    margin-top: 25px;
+  }
+
+}
+
+/* --------------FIN ABOUT------------ */
+
+
+
+/* ------------FOOTER----------------- */
+
+footer{
+  min-height: 20vh;
+}
+
+footer li{
+  list-style: none; 
+}
+
+.downloadCVLink{
+  text-decoration: none !important;
+  margin-left: 18px;
+}
+
+
+/* PHONE */
+@media screen and (max-width:820px) {
+  footer li{
+    margin-left: 18px;
+  }
+  .downloadCVLink{
+    text-decoration: none !important;
+    margin-left: 0px;
+  }
+}
+/* -----------FIN FOOTER-------------- */
+
+
+/* -----------PROJECT----------------- */
+
+@media screen and (max-width:576px) {
+  .div-img-projects{
+    padding: 25px !important;
+  }
+
+}
+
+.div-img-projects{
+  padding: 35px;
+}
+
+
+
+.div-img-project-1,
+.div-img-project-2,
+.div-img-project-3,
+.div-img-project-4,
+.div-img-project-5,
+.div-img-project-6,
+.div-img-project-7{
+  cursor: pointer; /* Make the image clickable */
+  transition: all 0.5s ease-in-out; /* Add a transition effect */
+}
+
+.div-img-project-1:hover,
+.div-img-project-2:hover,
+.div-img-project-3:hover,
+.div-img-project-4:hover,
+.div-img-project-5:hover,
+.div-img-project-6:hover,
+.div-img-project-7:hover{
+  transform: scale(1.02); /* Scale the image up when hovered over */
+}
+
+
+
+/* -----------FIN PROJECT -------------*/
+
+
+
+/* -----------CONTACTO---------------- */
+
+
+.boxContact{
+  height: 8vh;
+}
+
+.boxContact img{
+  width: 24px;
+  margin-right: 10px;
+}
+
+.contactStyleLinks{
+  text-decoration: none !important;
+}
+
+.boxGeneralContact{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* -----------FIN CONTACTO------------ */
