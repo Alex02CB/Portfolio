@@ -135,6 +135,10 @@ div#basic-navbar-nav {
   .alexImgMobile{
     width: 120px;
   }
+
+  .titulo{
+    font-size: 42px !important;
+  }
 }
 
 .habilidades li{
@@ -183,7 +187,7 @@ li{
 
 .titulo{
   font-family:'Poppins', sans-serif ;
-  font-size: 46px !important;
+  font-size: 46px;
   font-weight: 800;
 }
 

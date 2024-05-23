@@ -13,7 +13,7 @@ const Contact = () => {
                 <div className="row">
 
                     <div className="col-md-6 d-flex flex-column justify-content-center">
-                        <h1 className="titulo">Contact</h1>
+                        <h1 className="titulo">Contacto</h1>
                     </div>
                 </div>
             </section>

@@ -3,7 +3,7 @@ import Layout from '/src/components/Layout.jsx';
 import About from '/src/components/About.jsx';
 import Contact from '/src/components/Contact.jsx';
 import Projects from '/src/components/Projects.jsx';
-import SmoothScroll from './components/SmoothScroll';
+import SmoothScroll from './components/SmoothScroll/';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
