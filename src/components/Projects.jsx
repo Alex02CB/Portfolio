@@ -113,7 +113,7 @@ const Projects = () => {
                     <div className='row'>
 
                         <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-1 order-sm-0 ">
-                            <h2>Sailing life experience</h2>
+                            <h2>Sailing Life Experience</h2>
                             <p className='col-md-10'>Fourminds es una productora audiovisual en Granada que produce contenido propio de ficción.</p>
                         </div>
 
