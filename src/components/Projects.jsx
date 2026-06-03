@@ -78,23 +78,6 @@ const Projects = () => {
                 <section className='container mt-5'>
                     <div className='row'>
 
-                        <div className="div-img-projects col-md-6 div-img-project-3  order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
-                            <Link to="https://cnaneurologia.com/" target='_blank'>
-                                <img src="/cna.png"  className='img-fluid mx-auto d-block p-0 rounded-4' />
-                            </Link>
-                        </div>
-
-                        <div className="div-text-projects col-md-5 offset-md-1 d-flex flex-column text-align-center justify-content-center order-0 order-sm-1 ">
-                            <h2>CNA Neurología</h2>
-                            <p>Este sitio web de neurología fue creado con WordPress, utilizando Elementor para diseñar una interfaz moderna y accesible. Se empleó ACF para gestionar contenido especializado. La página está enfocada en ofrecer información clara y profesional sobre servicios neurológicos.</p>
-                        </div>
-
-                    </div>
-                </section>
-
-                <section className='container mt-5'>
-                    <div className='row'>
-
                         <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-1 order-sm-0 ">
                             <h2>GT Rentals</h2>
                             <p className='col-md-10'>Esta página web de alquiler de coches de lujo fue desarrollada con WordPress, utilizando una plantilla personalizada optimizada con código. Integra WooCommerce y una calculadora interactiva que permite a los usuarios calcular fácilmente el precio del alquiler según sus necesidades. Combina diseño elegante y funcionalidad avanzada para una experiencia premium.</p>
