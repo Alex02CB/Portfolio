@@ -114,7 +114,7 @@ const Projects = () => {
 
                         <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-1 order-sm-0 ">
                             <h2>Sailing Life Experience</h2>
-                            <p className='col-md-10'>Fourminds es una productora audiovisual en Granada que produce contenido propio de ficción.</p>
+                            <p className='col-md-10'>Página web desarrollada con WordPress Themes Customs a medida. La pagina está basada en experiencias de navegación personalizadas y exclusivas en veleros por todo el mundo.</p>
                         </div>
 
                         <div className="div-img-projects col-md-6 div-img-project-4 order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
