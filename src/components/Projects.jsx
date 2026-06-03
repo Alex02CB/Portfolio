@@ -119,7 +119,7 @@ const Projects = () => {
 
                         <div className="div-img-projects col-md-6 div-img-project-4 order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
                             <Link to="https://sailinglifeexperience.com/" target='_blank'>
-                                <img src="/fourminds.jpg" alt="fourminds" className='img-fluid mx-auto d-block p-0 rounded-4' />
+                                <img src="/Sailing.png" alt="fourminds" className='img-fluid mx-auto d-block p-0 rounded-4' />
                             </Link>
                         </div>
 
