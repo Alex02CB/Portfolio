@@ -113,12 +113,12 @@ const Projects = () => {
                     <div className='row'>
 
                         <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-1 order-sm-0 ">
-                            <h2>Fourminds</h2>
+                            <h2>Sailing life experience</h2>
                             <p className='col-md-10'>Fourminds es una productora audiovisual en Granada que produce contenido propio de ficción.</p>
                         </div>
 
                         <div className="div-img-projects col-md-6 div-img-project-4 order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
-                            <Link to="https://www.wearefourminds.com/" target='_blank'>
+                            <Link to="https://sailinglifeexperience.com/" target='_blank'>
                                 <img src="/fourminds.jpg" alt="fourminds" className='img-fluid mx-auto d-block p-0 rounded-4' />
                             </Link>
                         </div>
