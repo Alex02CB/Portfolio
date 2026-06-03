@@ -60,6 +60,23 @@ const Projects = () => {
 
                 <section className='container mt-5'>
                     <div className='row'>
+                        
+                        <div className="div-img-projects col-md-6 div-img-project-4 order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
+                            <Link to="https://sailinglifeexperience.com/" target='_blank'>
+                                <img src="/sailing.png" alt="fourminds" className='img-fluid mx-auto d-block p-0 rounded-4' />
+                            </Link>
+                        </div>
+
+                        <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-0 order-sm-1 ">
+                            <h2>Sailing Life Experience</h2>
+                            <p className='col-md-10'>Página web desarrollada con WordPress Themes Customs a medida. La pagina está basada en experiencias de navegación personalizadas y exclusivas en veleros por todo el mundo.</p>
+                        </div>
+
+                    </div>
+                </section>
+
+                <section className='container mt-5'>
+                    <div className='row'>
 
                         <div className="div-img-projects col-md-6 div-img-project-3  order-1 order-sm-0 d-flex align-items-center justify-content-center p-2">
                             <Link to="https://cnaneurologia.com/" target='_blank'>
