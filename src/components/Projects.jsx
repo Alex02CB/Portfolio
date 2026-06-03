@@ -67,7 +67,7 @@ const Projects = () => {
                             </Link>
                         </div>
 
-                        <div className="div-text-projects col-md-6 d-flex flex-column text-align-center justify-content-center order-0 order-sm-1 ">
+                        <div className="div-text-projects col-md-5 offset-md-1 d-flex flex-column text-align-center justify-content-center order-0 order-sm-1 ">
                             <h2>Sailing Life Experience</h2>
                             <p className='col-md-10'>Página web desarrollada con WordPress Themes Customs a medida. La pagina está basada en experiencias de navegación personalizadas y exclusivas en veleros por todo el mundo.</p>
                         </div>
