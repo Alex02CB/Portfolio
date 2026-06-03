@@ -28,7 +28,7 @@ const Projects = () => {
                     <div className='row'>
 
                         <div className="div-img-projects div-img-project-1 d-flex align-items-center col-md-6 rounded-4 order-1 order-sm-0 p-2">
-                            <Link to="https://lapuertaestudios.grupoduende.com/" target='_blank'>
+                            <Link to="https://lapuertastudio.com/" target='_blank'>
                                 <img src="/lapuerta.png" alt="Stage-Tour" className='img-fluid mx-auto d-block p-0 rounded-4' />
                             </Link>
                         </div>
